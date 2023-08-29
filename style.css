@@ -1,0 +1,40 @@
+div{
+    background-color: grey;
+    width:70vw;
+    padding:12px;
+    border-radius:12px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    font-size:2.5rem;
+    color:white;
+}
+
+ul{
+    list-style-type: none;
+    padding:0;
+    margin:24px auto;
+}
+li{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0 12px;
+    border: 2px solid black;
+    background-color: #00557f;
+    border-radius:5px;
+    margin:5px;
+}
+input{
+    font-size:1.5rem;
+    padding:8px 8px;
+    outline:none;
+    width:50%;
+}
+button{
+    font-size:24px;
+    border-radius: 8px;
+    padding:8px 12px;
+}
